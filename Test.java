@@ -1,7 +1,7 @@
 public class Test {
     public static void main(String... args) {
-        for (int i = 0; i < 10; i++) {
-            if (i == 9) {
+        for (int i = 1; i < 11; i++) {
+            if (i == 10) {
                 IO.print(i);
                 break;
             }
