@@ -8,5 +8,11 @@ public class Test {
 
             IO.print(i + ", ");
         }
+
+        IO.println();
+
+        String someone = "Me!";
+
+        IO.println(someone);
     }
 }
