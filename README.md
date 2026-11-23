@@ -1,0 +1,1 @@
+Hello, this is a simple counter from 1 to 10 on Java.
